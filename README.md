@@ -1,5 +1,5 @@
 # clone-instagram
 
-<h4>Clone Instagram</h4>
+<h2>Clone Instagram</h4>
 
-<p>Clone instagram web utilizando HTML, CSS, Bootstrap</p>
+<p>Instagram web utilizando HTML, CSS, Bootstrap</p>
